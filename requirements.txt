@@ -1,0 +1,10 @@
+pandas
+numpy
+openpyxl
+plotly
+kaleido
+nbformat
+scikit-learn
+gensim
+bertopic
+nltk
